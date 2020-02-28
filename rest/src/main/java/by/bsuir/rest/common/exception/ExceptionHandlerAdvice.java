@@ -1,4 +1,4 @@
-package by.bsuir.rest.exception;
+package by.bsuir.rest.common.exception;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 
