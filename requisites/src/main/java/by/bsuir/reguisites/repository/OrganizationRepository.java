@@ -1,6 +1,6 @@
 package by.bsuir.reguisites.repository;
 
-import main.java.by.bsuir.reguisites.model.OrganizationEntity;
+import by.bsuir.reguisites.model.OrganizationEntity;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.UUID;

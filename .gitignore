@@ -39,7 +39,7 @@ out/
 .vscode/
 
 /log/
-/target/
+target
 build
 
 *.jar
